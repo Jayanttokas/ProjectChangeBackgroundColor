@@ -2,7 +2,7 @@
 <h1>NOTE</h1>
 <b>All of the Code is written in ES6 version.</b>
 
-<b>Updates appreciated</b>
+<b>Updates appreciated</b> <br/>
 Anything You want to update you can create a pull request and I can look over and if it is something good I will merge 
 <br>
 <br>
