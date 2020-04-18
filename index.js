@@ -1,4 +1,4 @@
-var changeColor = (function(){
+const changeColor = (() => {
 
     const eventHandler = () => {
         // Everytime time happens Event is called
@@ -25,7 +25,7 @@ var changeColor = (function(){
 
     return{
       // Initialization Function
-      init: function() {
+      init: () => {
         console.log("app started");
         // Calls the event Handler
         eventHandler()
