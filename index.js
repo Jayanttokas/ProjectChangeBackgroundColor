@@ -27,6 +27,7 @@ const changeColor = (() => {
       // Initialization Function
       init: () => {
         console.log("app started");
+        
         // Calls the event Handler
         eventHandler()
       }
